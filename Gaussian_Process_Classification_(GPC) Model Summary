@@ -1,0 +1,3 @@
+Train Accuracy: 0.7588
+Test Accuracy: 0.7550
+Accuracy Gap (Train - Test): 0.0038
